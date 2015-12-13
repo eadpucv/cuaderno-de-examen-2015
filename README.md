@@ -1,4 +1,3 @@
-My Awesome Book
-=======
+# Cuaderno de Exámenes
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Edición electrónica que recoge los textos de exámen de las travesías:
