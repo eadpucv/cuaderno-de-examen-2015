@@ -4,15 +4,13 @@
 
 ### De las teselas
 
-    Canta el troquel del susodicho
-    la lámina toma la estrella
-    consigue su luz en el paseo
-[^1]
+<p class='poem'>Canta el troquel del susodicho
+la lámina toma la estrella
+consigue su luz en el paseo</p>[^1]
 
 
-    la travesía consigue su cielo
-    como los ojos
-[^2]
+<p class='poem'>la travesía consigue su cielo
+como los ojos</p>[^2]
 
 Así, la gráfica también debe conseguir su apoyo, que —en su sentido abstracto— está “en los aires” si entendemos la naturaleza del signo como algo puramente visual, bidimensional y sin un cuerpo material. La letra debe conseguirse un modo de sostenerse en este espacio, porque su origen es ideal, platónico si se quiere. Para acceder al espacio debe volverse empírica, como un gesto que traza o imprime sobre un soporte o manto gráfico.
 
