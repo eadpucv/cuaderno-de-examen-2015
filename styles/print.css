@@ -8,21 +8,28 @@ Gentium Book Basic: 400, 400italic, 700, 700italic
 Open Sans: 300, 400, 600, 700, 800
 
 */
+
 @import url(https://fonts.googleapis.com/css?family=Gentium+Book+Basic:400,400italic,700,700italic);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,700,800,300,600);
 
 
-/**/
+/* Tabla de índice lateral */
 .book .book-summary{
     font-family: "Gentium Book Basic";
     background-color: #F9FAEA;
+}
+
+.book .book-summary ul.summary li.divider {
+    height: 1px;
+    margin: 2em 0px;
+    background-color: rgba(0, 0, 0, .15);
 }
 
 .book .book-summary ul.summary li:first-of-type{
     font-family: "Open Sans";
     font-weight: 800;
     text-transform: uppercase;
-    padding: 3ex 1em;
+    padding: 4.5ex 1ex 1ex;
 }
 
 .book .book-summary ul.summary li[data-level="0"]{
@@ -40,7 +47,6 @@ Open Sans: 300, 400, 600, 700, 800
     white-space: nowrap;
     position: relative;
 }
-
 
 /* Títulos */
 h1,h2,h3,h4,h5,h6{
@@ -60,7 +66,7 @@ ul.summary li.active > a,
 }
 
 .book .book-summary ul.summary li a{
-    color: black !important;
+    color: rgba(0,0,0,.6) !important;
 }
 
 
