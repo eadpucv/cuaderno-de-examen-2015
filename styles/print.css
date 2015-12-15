@@ -89,7 +89,7 @@ blockquote p{
 
 /* notas pie de página */
 blockquote[id*="fn_"]{
-    background-color: transparent;
+    background-color: transparent !important;
     font-family: "Gentium Book Basic";
     border-left: 4em solid transparent !important;
     padding: 0 !important;
@@ -97,6 +97,10 @@ blockquote[id*="fn_"]{
     font-size: .8em !important;
     margin: 0 0 0 !important;
     color: #000 !important;
+}
+
+blockquote[id*="fn_"]:first-of-type{
+    margin-top: 4em;
 }
 
 /* reglas horizontales */
