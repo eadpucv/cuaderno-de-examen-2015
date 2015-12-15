@@ -19,7 +19,14 @@ p.poem{
     whitespace: pre-wrap;
 }
 
+/* notas pie de página */
+
 blockquote[id*="fn_"]{
     font-family: "Gentium Book Basic";
-    border-left: 1em solid transparent;
+    border-left: 4em solid transparent !important;
+    padding: 0 !important;
+    line-height: 130%;
+    font-size: .8em !important;
+    margin: 0 0 0 !important;
+    color: #000 !important;
 }
