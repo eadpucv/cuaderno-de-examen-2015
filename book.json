@@ -1,5 +1,5 @@
 {
-    "title": "Cuaderno de Exámenes"
+    "title": "Cuaderno de Exámenes",
     "plugins": [
         "layout",
         "footnote-string-to-number",
