@@ -34,13 +34,14 @@ p{
 }
 
 
-sub, sup, sub a {
+sub, sup{
     font-weight: bold;
     color: #C00;
     font-size: 75% !important;
     line-height: 0;
     vertical-align: baseline;
 }
+
 
 /* notas pie de página */
 
