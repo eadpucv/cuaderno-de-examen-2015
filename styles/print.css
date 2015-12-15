@@ -18,3 +18,8 @@ p.poem{
     font-family: Courier, monospace;
     whitespace: pre-wrap;
 }
+
+blockquote[id*="fn_"]{
+    font-family: "Gentium Book Basic";
+    border-left: 1em solid transparent;
+}
