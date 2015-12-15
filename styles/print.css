@@ -23,11 +23,25 @@ Open Sans: 300, 400, 600, 700, 800
     font-weight: 800;
     text-transform: uppercase;
     letter-spacing: -.1ex;
+    padding: 3ex 1em;
 }
 
 ul.summary li.active > a{
     color: #C00;
 }
+
+.book .book-summary ul.summary li a, .book .book-summary ul.summary li span {
+    display: block;
+    padding: 0 2em .1em 2em;
+    border-bottom: medium none;
+    color: black;
+    background: transparent none repeat scroll 0px 0px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    position: relative;
+}
+
 
 /* Títulos */
 h1,h2,h3,h4,h5,h6{
