@@ -1,7 +1,8 @@
 {
     "plugins": [
         "layout",
-        "footnote-string-to-number"
+        "footnote-string-to-number",
+        "video"
     ],
     "pluginsConfig": {}
 }
