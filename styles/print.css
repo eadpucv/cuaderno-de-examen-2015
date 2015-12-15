@@ -18,7 +18,7 @@ Open Sans: 300, 400, 600, 700, 800
     background-color: #F9FAEA;
 }
 
-ul.summary li a.custom-link{
+.book .book-summary ul.summary li a.custom-link{
     font-family: "Open Sans";
     font-weight: 600;
     text-transform: uppercase;
