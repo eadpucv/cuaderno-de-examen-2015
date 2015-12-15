@@ -25,7 +25,7 @@ Open Sans: 300, 400, 600, 700, 800
     letter-spacing: -.1ex;
 }
 
-.book .book-summary li.active{
+ul.summary li.active > a{
     color: #C00;
 }
 
@@ -59,10 +59,7 @@ ul.summary li.active>a,
 }
 
 /* párrafos y listas*/ 
-p,
-ol, ul,
-.book .book-body .page-wrapper .page-inner section.normal ol,
-.book .book-body .page-wrapper .page-inner section.normal ul{
+p{
     font-family: "Gentium Book Basic";
     text-align: justify;
     font-size: 1.1em;
@@ -77,6 +74,14 @@ ol, ul,
     -moz-hyphens: auto;
     -ms-hyphens: auto;
     hyphens: auto;
+}
+
+ol, ul,
+.book .book-body .page-wrapper .page-inner section.normal ol,
+.book .book-body .page-wrapper .page-inner section.normal ul{
+    font-family: "Gentium Book Basic";
+    font-size: 1.1em;
+    line-height: 1.7;
 }
 
 
