@@ -27,7 +27,7 @@ Open Sans: 300, 400, 600, 700, 800
 }
 
 ul.summary li.active > a{
-    color: #C00;
+    color: #C00 !important;
 }
 
 .book .book-summary ul.summary li a, .book .book-summary ul.summary li span {
