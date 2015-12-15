@@ -55,6 +55,7 @@ ul.summary li.active>a,
 }
 
 /* párrafos */ 
+li,
 p{
     font-family: "Gentium Book Basic";
     text-align: justify;
@@ -71,6 +72,7 @@ p{
     -ms-hyphens: auto;
     hyphens: auto;
 }
+
 
 /* subíndices y superíndices*/
 sub, sup{
