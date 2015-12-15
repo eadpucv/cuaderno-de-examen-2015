@@ -74,7 +74,8 @@ sub, sup{
 }
 
 /* blockquotes */
-blockquote{
+blockquote,
+.book .book-body .page-wrapper .page-inner section.normal blockquote{
     background-color: #F9FAEA;
     border-left: 0px solid transparent;
     border-radius: 5px;
