@@ -17,11 +17,14 @@ a,
     color: #C00;
 }
 
+
 p{
     text-align: justify;
     font-size: 1.1em;
     line-height: 1.5em;
     font-family: "Gentium Book Basic";
+    margin: 0 0 1em 0;
+    text-indent: -3em;
     
     /* guiones de quiebre */
     -ms-word-break: break-all;
