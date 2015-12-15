@@ -18,6 +18,7 @@ Open Sans: 300, 400, 600, 700, 800
     background-color: #F9FAEA;
 }
 
+
 /* Títulos */
 h1,h2,h3,h4,h5,h6{
     color: #C00;
@@ -28,6 +29,7 @@ h1,h2,h3,h4,h5,h6{
 
 /* vínculos */
 a,
+.book .book-summary a,
 .book .book-body .page-wrapper .page-inner section.normal a{
     color: #C00;
 }
