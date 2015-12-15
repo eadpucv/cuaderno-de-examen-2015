@@ -26,10 +26,6 @@ Open Sans: 300, 400, 600, 700, 800
     padding: 3ex 1em;
 }
 
-ul.summary li.active > a{
-    color: #C00 !important;
-}
-
 .book .book-summary ul.summary li a, .book .book-summary ul.summary li span {
     display: block;
     padding: 0 2em .1em 2em;
@@ -54,7 +50,8 @@ h1,h2,h3,h4,h5,h6{
 /* vínculos */
 a,
 .book .book-summary a,
-ul.summary li.active>a,
+ul.summary li.active > a,
+.book .book-summary ul.summary li a:hover,
 .book .book-body .page-wrapper .page-inner section.normal a{
     color: #C00;
 }
