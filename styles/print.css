@@ -12,7 +12,8 @@ h1,h2,h3,h4,h5,h6{
     text-transform: uppercase;
 }
 
-a{
+a,
+.book .book-body .page-wrapper .page-inner section.normal a{
     color: #C00;
 }
 
