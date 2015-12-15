@@ -12,6 +12,11 @@ Open Sans: 300, 400, 600, 700, 800
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,700,800,300,600);
 
 
+/**/
+.book .book-summary{
+    background-color: #F9FFE2;
+}
+
 /* Títulos */
 h1,h2,h3,h4,h5,h6{
     color: #C00;
@@ -58,6 +63,14 @@ sub, sup{
     font-size: 75% !important;
     line-height: 0;
     vertical-align: baseline;
+}
+
+/* blockquotes */
+blockquote{
+    background-color: #F9FFE2;
+    border-left: 0px solid transparent;
+    padding: 1em 2em;
+    border-radius: 5px;
 }
 
 
