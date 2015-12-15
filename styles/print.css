@@ -14,7 +14,7 @@ Open Sans: 300, 400, 600, 700, 800
 
 /**/
 .book .book-summary{
-    background-color: #F9FFE2;
+    background-color: #F9FAEA;
 }
 
 /* Títulos */
@@ -66,15 +66,19 @@ sub, sup{
 
 /* blockquotes */
 blockquote{
-    background-color: #F9FFE2;
+    background-color: #F9FAEA;
     border-left: 0px solid transparent;
-    padding: 1em 2em;
     border-radius: 5px;
+}
+
+blockquote p{
+    padding: 1em 2em;
 }
 
 
 /* notas pie de página */
 blockquote[id*="fn_"]{
+    background-color: transparent;
     font-family: "Gentium Book Basic";
     border-left: 4em solid transparent !important;
     padding: 0 !important;
