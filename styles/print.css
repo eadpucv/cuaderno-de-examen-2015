@@ -54,9 +54,11 @@ ul.summary li.active>a,
     padding: 2em 0 10em 0;
 }
 
-/* párrafos */ 
+/* párrafos y listas*/ 
 p,
-ol, ul{
+ol, ul,
+.book .book-body .page-wrapper .page-inner section.normal ol,
+.book .book-body .page-wrapper .page-inner section.normal ul{
     font-family: "Gentium Book Basic";
     text-align: justify;
     font-size: 1.1em;
