@@ -2,8 +2,7 @@
     "title": "Cuaderno de Exámenes",
     "plugins": [
         "layout",
-        "footnote-string-to-number",
-        "video"
+        "footnote-string-to-number"
     ],
     "pluginsConfig": {}
 }
