@@ -26,9 +26,6 @@ p{
     -ms-word-break: break-all;
     word-break: break-all;
 
-    /* anti estandar para webkit */
-    word-break: break-word;
-
     -webkit-hyphens: auto;
     -moz-hyphens: auto;
     -ms-hyphens: auto;
