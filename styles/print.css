@@ -18,11 +18,15 @@ Open Sans: 300, 400, 600, 700, 800
     background-color: #F9FAEA;
 }
 
-.book .book-summary ul.summary li[data-level="0"]{
+.book .book-summary ul.summary li:first-of-type{
     font-family: "Open Sans";
     font-weight: 800;
     text-transform: uppercase;
     padding: 3ex 1em;
+}
+
+.book .book-summary ul.summary li[data-level="0"]{
+    font-style: italic;
 }
 
 .book .book-summary ul.summary li a, .book .book-summary ul.summary li span {
