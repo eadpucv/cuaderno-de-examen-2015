@@ -55,6 +55,10 @@ ul.summary li.active > a,
     color: #C00 !important;
 }
 
+.book .book-summary ul.summary li a{
+    color: black !important;
+}
+
 
 /* imágenes */
 .book .book-body .page-wrapper .page-inner section.normal img{
