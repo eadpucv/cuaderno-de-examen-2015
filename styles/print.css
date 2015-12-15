@@ -18,6 +18,12 @@ Open Sans: 300, 400, 600, 700, 800
     background-color: #F9FAEA;
 }
 
+ul.summary li a.custom-link{
+    font-family: "Open Sans";
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: -.2ex;
+}
 
 /* Títulos */
 h1,h2,h3,h4,h5,h6{
