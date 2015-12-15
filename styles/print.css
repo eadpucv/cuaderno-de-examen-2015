@@ -18,11 +18,15 @@ Open Sans: 300, 400, 600, 700, 800
     background-color: #F9FAEA;
 }
 
-.book .book-summary ul.summary li[data-level="0"] a{
+.book .book-summary ul.summary li[data-level="0"]{
     font-family: "Open Sans";
     font-weight: 800;
     text-transform: uppercase;
     letter-spacing: -.1ex;
+}
+
+.book .book-summary li.active{
+    color: #C00;
 }
 
 /* Títulos */
