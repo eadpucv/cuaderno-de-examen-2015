@@ -14,6 +14,7 @@ Open Sans: 300, 400, 600, 700, 800
 
 /**/
 .book .book-summary{
+    font-family: "Gentium Book Basic";
     background-color: #F9FAEA;
 }
 
@@ -46,10 +47,10 @@ a,
 
 /* párrafos */ 
 p{
+    font-family: "Gentium Book Basic";
     text-align: justify;
     font-size: 1.1em;
     line-height: 1.7;
-    font-family: "Gentium Book Basic";
     margin: 0 0 1em 0;
 
     /* guiones de quiebre */
