@@ -30,9 +30,9 @@ p{
 }
 
 
-sub, sup {
+sub, sup, sub a {
     font-weight: bold;
-    color: #C00;
+    color: #C00 !important;
     font-size: 75% !important;
     line-height: 0;
     vertical-align: baseline;
