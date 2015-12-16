@@ -2,13 +2,7 @@
     "gitbook": "1.5.0",
     "title": "Cuaderno de Exámenes",
     "language": "es",
-    "styles": {
-        "website": "styles/website.css",
-        "ebook": "styles/ebook.css",
-        "pdf": "styles/pdf.css",
-        "mobi": "styles/mobi.css",
-        "epub": "styles/epub.css"
-    },
+   
     "pdf": {
         "headerTemplate": "Cuaderno de Exámen",
         "footerTemplate": "e[ad] Escuela de Arquitectura y Diseño – _SECTION_."
