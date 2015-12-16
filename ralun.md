@@ -1,5 +1,7 @@
 # Travesía Ralún
 
+![Mapa de Ubicación](img/ralun/ralun-ubicacion.svg)
+
 > Ralún, Región de los Lagos. Recorrido: el ancho de América; San Antonio Oeste —Atlántico— Argentina, Bahía Mansa —Pacífico— Chile.<br>1<sup>er</sup> año de Arquitectura, a cargo de los profesores Patricio Cáraves, Jorge Ferrada, Esmeralda Rodríguez, Cristóbal Cox y Franco Marzal.
 
 ###### Patricio Cáraves
