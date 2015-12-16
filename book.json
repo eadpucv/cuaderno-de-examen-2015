@@ -1,4 +1,9 @@
 {
     "title": "Cuaderno de Exámenes",
     "language": "es",
+   
+    "pdf": {
+        "headerTemplate": "e[ad] Escuela de Arquitectura y Diseño",
+        "footerTemplate": "_TITLE_ – _SECTION_."
+    }
 }
