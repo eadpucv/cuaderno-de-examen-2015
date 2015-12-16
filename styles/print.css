@@ -95,9 +95,9 @@ p{
     line-height: 1.7;
     margin: 0 0 1em 0;
 
-    /* guiones de quiebre */
+    /* guiones de quiebre 
     -ms-word-break: break-all;
-    word-break: break-all;
+    word-break: break-all; */
 
     -webkit-hyphens: auto;
     -moz-hyphens: auto;
