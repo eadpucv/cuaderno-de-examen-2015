@@ -10,11 +10,11 @@ Un dibujo de un arbusto poblado de flores, que da cuenta de la primavera. Flores
 solo, en un rincón, al fondo del terreno, junto al cerco que delimita la propiedad del Servicentro.<br>
 Se abre a recibir, con las flores más espléndidas, abriendo un abanico de colores de los amarillos, rojos, a los verdes de ramaje superior.<br>
 Éste, recibe con esplendor, en un retiro propio.<br>
-Regocijo   Gozo.   Hay algo de lo entero.[^1]*
+Regocijo. Gozo. Hay algo de lo entero.[^1]*
 
 Hacemos el balance, que es confrontación de activos con pasivos, para dar con la ubicación, para ubicarnos. La ubicación se da en lo entero. Y , lo entero cumplido. 
 
-*dar  cumplimiento[^2]*
+*dar  cumplimiento [^2]*
 
 y agregamos: En el arte arquitectónico de amereida, lo entero cumplido mueve al regocijo, que es el acto con que se manifiesta la alegría de vivir.
 
