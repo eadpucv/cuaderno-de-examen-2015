@@ -1,7 +1,7 @@
 {
     "title": "Cuaderno de Exámenes",
     "language": "es",
-   
+    "gitbook": "1.5.0",
     "pdf": {
         "headerTemplate": "e[ad] Escuela de Arquitectura y Diseño",
         "footerTemplate": "_TITLE_ – _SECTION_."
