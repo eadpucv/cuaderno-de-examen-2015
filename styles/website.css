@@ -1,3 +1,166 @@
 /* CSS for website */
 
-@import 'print.css';
+/* 
+Tipografías de Google Fonts
+
+Gentium Book Basic: 400, 400italic, 700, 700italic
+Open Sans: 300, 400, 600, 700, 800
+
+*/
+
+@import url(https://fonts.googleapis.com/css?family=Gentium+Book+Basic:400,400italic,700,700italic);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,700,800,300,600);
+
+
+/* Tabla de índice lateral */
+.book .book-summary{
+    font-family: "Gentium Book Basic";
+    background-color: #F9FAEA;
+}
+
+.book .book-summary ul.summary li.divider {
+    height: 1px;
+    margin: 2em 0px;
+    background-color: rgba(0, 0, 0, .15);
+}
+
+.book .book-summary ul.summary li:first-of-type{
+    font-family: "Open Sans";
+    font-weight: 800;
+    text-transform: uppercase;
+    padding: 4.5ex 1ex 1ex;
+}
+
+.book .book-summary ul.summary li[data-level="0"]{
+    font-style: italic;
+}
+
+.book .book-summary ul.summary li a, .book .book-summary ul.summary li span {
+    display: block;
+    padding: 0 2em .1em 2em;
+    border-bottom: medium none;
+    color: black;
+    background: transparent none repeat scroll 0px 0px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    position: relative;
+}
+
+/* Títulos */
+h1,h2,h3,h4,h5,h6{
+    color: #C00;
+    font-family: "Open Sans";
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.book .book-body .page-wrapper .page-inner section.normal h1{
+    font-size: 2.2em;
+    font-weight: 300;
+}
+
+/* vínculos */
+a,
+.book .book-summary a,
+ul.summary li.active > a,
+.book .book-summary ul.summary li a:hover,
+.book .book-body .page-wrapper .page-inner section.normal a{
+    color: #C00 !important;
+}
+
+.book .book-summary ul.summary li a{
+    color: rgba(0,0,0,.6) !important;
+}
+
+
+/* imágenes */
+.book .book-body .page-wrapper .page-inner section.normal img{
+    display: block;
+    margin: 0 auto;
+}
+
+/* contenido de la página*/
+.book .book-body .page-wrapper .page-inner section.normal {
+    line-height: 1.7;
+    padding: 2em 0 10em 0;
+}
+
+/* párrafos y listas*/ 
+p{
+    font-family: "Gentium Book Basic";
+    text-align: justify;
+    font-size: 1.1em !important;
+    line-height: 1.7;
+    margin: 0 0 1em 0;
+
+    /* guiones de quiebre 
+    -ms-word-break: break-all;
+    word-break: break-all; */
+
+    -webkit-hyphens: auto;
+    -moz-hyphens: auto;
+    -ms-hyphens: auto;
+    hyphens: auto;
+}
+
+ol, ul,
+.book .book-body .page-wrapper .page-inner section.normal ol,
+.book .book-body .page-wrapper .page-inner section.normal ul{
+    font-family: "Gentium Book Basic";
+    font-size: 1.1em;
+    line-height: 1.7;
+}
+
+
+/* subíndices y superíndices*/
+sub, sup{
+    font-weight: bold;
+    font-size: 75% !important;
+    line-height: 0;
+    vertical-align: baseline;
+}
+
+/* blockquotes */
+blockquote,
+.book .book-body .page-wrapper .page-inner section.normal blockquote{
+    background-color: #F9FAEA;
+    border-left: 0px solid transparent;
+    border-radius: 5px;
+}
+
+blockquote p{
+    padding: 1.7em 1.3em;
+}
+
+
+/* notas pie de página */
+blockquote[id*="fn_"]{
+    background-color: transparent !important;
+    font-family: "Gentium Book Basic";
+    border-left: 4em solid transparent !important;
+    padding: 0 !important;
+    line-height: 130%;
+    font-size: .8em !important;
+    margin: 0 0 0 !important;
+    color: #000 !important;
+}
+
+/* regla sólo para la primera nota al pie de página */
+blockquote#fn_1{
+    margin-top: 6em !important;
+    border-top: 1px solid #CCC;
+    padding-top: 2em !important;
+    border-radius: 0;
+}
+
+/* reglas horizontales */
+hr,
+.book .book-body .page-wrapper .page-inner section.normal hr {
+    height: 1px;
+    padding: 0;
+    margin: 2em 0;
+    overflow: hidden;
+    background-color: #CECECE;
+    border: none;
+}
