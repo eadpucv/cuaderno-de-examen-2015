@@ -10,7 +10,7 @@
         "epub": "styles/epub.css"
     },
     "pdf": {
-        "headerTemplate": "Header of the PDF with _TITLE_",
-        "footerTemplate": "Footer HTML template. Available variables: _PAGENUM_, _TITLE_, _AUTHOR_ and _SECTION_."
+        "headerTemplate": "Cuaderno de Exámen",
+        "footerTemplate": "e[ad] Escuela de Arquitectura y Diseño – _SECTION_."
     }
 }
