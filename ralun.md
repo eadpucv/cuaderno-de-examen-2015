@@ -5,16 +5,16 @@
 ###### Patricio Cáraves
 Dar cuenta desde el balance, es ciertamente partir desde término, desde haber dado cierre a un acto, a un emprender. Así, obedeciendo a esta realidad libremente elegida, para dar curso, tomo la carpeta-bitácora de travesía y, veo y leo el último croquis, hecho en estado de travesía:
 Un dibujo de un arbusto poblado de flores, que da cuenta de la primavera. Flores de colores amarillos naranjas, saturados y más arriba el verde de hojas nacientes. Leo lo allí anotado:
-Un arbusto: un espino.
-solo, en un rincón, al fondo del terreno, junto al cerco que delimita la propiedad del Servicentro.
-Se abre a recibir, con las flores más espléndidas, abriendo un abanico de colores de los amarillos, rojos, a los verdes de ramaje superior.
-Éste, recibe con esplendor, en un retiro propio.
-Regocijo   Gozo.   Hay algo de lo entero.
-Nota: gozo;  Estando en obra, al término de la jornada, Gaudí, al ver que los obreros, mirando la torre primera, terminada en su altura, y no se van a sus casas, les pregunta y, le responde uno sin bajar la vista del cielo: gozo.
-Hacemos el balance, que es confrontación de activos con pasivos, para dar con la ubicación, para ubicarnos. 
-La ubicación se da en lo entero. Y , lo entero cumplido. 
 
-*dar  cumplimiento[^1]*
+*Un arbusto: un espino.<br>
+solo, en un rincón, al fondo del terreno, junto al cerco que delimita la propiedad del Servicentro.<br>
+Se abre a recibir, con las flores más espléndidas, abriendo un abanico de colores de los amarillos, rojos, a los verdes de ramaje superior.<br>
+Éste, recibe con esplendor, en un retiro propio.<br>
+Regocijo   Gozo.   Hay algo de lo entero.[^1]*
+
+Hacemos el balance, que es confrontación de activos con pasivos, para dar con la ubicación, para ubicarnos. La ubicación se da en lo entero. Y , lo entero cumplido. 
+
+*dar  cumplimiento[^2]*
 
 y agregamos: En el arte arquitectónico de amereida, lo entero cumplido mueve al regocijo, que es el acto con que se manifiesta la alegría de vivir.
 
@@ -88,7 +88,7 @@ Así una vez con el lenguaje, se nombra- y parte la construcción de la Obra-. E
 
 ###### Franco Marzal, de la Ruta
 
-*¿Qué es la ruta? Es sólo seguir partiendo siempre, es mantener el rumbo abierto.[^2]*
+*¿Qué es la ruta? Es sólo seguir partiendo siempre, es mantener el rumbo abierto.[^3]*
 
  
 Comienzo esta nota con una cita para quedar enmarcado en una palabra y así referirme a dos “partidas” fundamentales que nos han correspondido dentro de la tarea de encaminar el rumbo de la Travesía.
@@ -107,6 +107,6 @@ Vuelvo a la cita inicial para preguntarme: ¿Y cómo mantener el rumbo siempre a
  
 Será que este recorrer trata de acceder en ese desconocido que, aunque ya planificado, se va dando en el encontrarse con el territorio que se nos va revelando en un acto sostenido mediante el dibujo y la palabra; acto llevado con un pulso continuo del ir sobre la marcha, a veces anticipando, a veces sobreponiéndose a lo que se nos va apareciendo, llamados a estar abiertos a siempre maravillarse con aquello en lo que estamos (presente o regalo), y en lo que nos espera más adelante: será esto primero la ruta misma y el paisaje. Algo de esa experiencia es lo que se puede ver recogido en nuestras bitácoras y láminas. 
 
-
-[^1]: [Amereida](http://wiki.ead.pucv.cl/index.php/Amereida)
-[^2]: Bitácora de la Primera Travesías de Amereida, Nota 46.
+[^1]: Nota: gozo;  Estando en obra, al término de la jornada, Gaudí, al ver que los obreros, mirando la torre primera, terminada en su altura, y no se van a sus casas, les pregunta y, le responde uno sin bajar la vista del cielo: gozo.
+[^2]: [Amereida](http://wiki.ead.pucv.cl/index.php/Amereida)
+[^3]: Bitácora de la Primera Travesías de Amereida, Nota 46.
