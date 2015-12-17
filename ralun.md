@@ -40,14 +40,14 @@ Siendo un total de
 
 Campamento:
 
-* día 7 martes     3 noviembre
-* día 6 lunes        2 noviembre
-* día 5 domingo  1 noviembre
-* día 4 sábado     31 octubre
-* día 3 viernes     30 octubre
-* día 2 jueves       29 octubre
-* día 1 miércoles 28octubre
-* día 0 martes      27octubre
+* día 7 martes &rarr; 3 noviembre
+* día 6 lunes &rarr; 2 noviembre
+* día 5 domingo &rarr; 1 noviembre
+* día 4 sábado &rarr; 31 octubre
+* día 3 viernes &rarr; 30 octubre
+* día 2 jueves &rarr; 29 octubre
+* día 1 miércoles &rarr; 28 octubre
+* día 0 martes &rarr;  27 octubre
 
 Cada día de campamento el grupo de restauración, sirvió 5 comidas, como las antes mencionadas:  desayuno, snack, almuerzo, té y comida; cuidando los menú en cantidad, temperatura, grado de cocción, higiene y presentación. Todo a la hora convenida. Con jornadas comenzando a las  06.00hs. y terminando alrededor de las 24.00 hs. O incluso a las 00.30hs. lo constituían 9 personas:
 
