@@ -1,4 +1,4 @@
-# Travesía Vodudahue
+## Travesía Vodudahue
 
 ![Mapa de Ubicación](img/vodudahue/vodudahue-ubicacion.svg)
 

@@ -1,4 +1,4 @@
-# Travesía Ralún
+## Travesía Ralún
 
 ![Mapa de Ubicación](img/ralun/ralun-ubicacion.svg)
 
