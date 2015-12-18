@@ -1757,9 +1757,9 @@
 <g id="travesía">
 	<g>
 		
-			<line fill="none" stroke="#B90000" stroke-width="2" stroke-linejoin="round" x1="283.51" y1="121.167" x2="283.51" y2="128.167"/>
+			<line fill="none" stroke="#B90000" stroke-width="2" stroke-linejoin="round" x1="285.51" y1="115.167" x2="285.51" y2="122.167"/>
 		
-			<line fill="none" stroke="#B90000" stroke-width="2" stroke-linejoin="round" x1="280.01" y1="124.667" x2="287.01" y2="124.667"/>
+			<line fill="none" stroke="#B90000" stroke-width="2" stroke-linejoin="round" x1="282.01" y1="118.667" x2="289.01" y2="118.667"/>
 	</g>
 </g>
 </svg>
