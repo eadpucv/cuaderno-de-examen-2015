@@ -1,4 +1,4 @@
-## Travesía Ralún
+## Travesía Ralún, o del Ancho de América
 
 ![Mapa de Ubicación](img/ralun/ralun-ubicacion.svg)
 
