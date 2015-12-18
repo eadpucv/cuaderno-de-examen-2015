@@ -1,4 +1,4 @@
-#### Presentación
+## Presentación
 
 Edición electrónica recoge los textos leídos durante el acto de exámen de fin del año académico 2015 en la e[ad] Escuela de Arquitectura y Diseño de la Pontificia Universidad Católica de Valparaíso el dia jueves 10 de diciembre.
 Los exámenes fueron ordenados a partir de las travesías realizadas el presente año, involucrando a todos los talleres de arquitectura y diseño de nuestra escuela.
