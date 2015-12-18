@@ -4,7 +4,7 @@
 
 > Ralún, Región de los Lagos. Recorrido: el ancho de América; San Antonio Oeste —Atlántico— Argentina, Bahía Mansa —Pacífico— Chile.<br>1<sup>er</sup> año de Arquitectura, a cargo de los profesores Patricio Cáraves, Jorge Ferrada, Esmeralda Rodríguez, Cristóbal Cox y Franco Marzal.
 
-###### Patricio Cáraves
+### Patricio Cáraves
 Dar cuenta desde el balance, es ciertamente partir desde término, desde haber dado cierre a un acto, a un emprender. Así, obedeciendo a esta realidad libremente elegida, para dar curso, tomo la carpeta-bitácora de travesía y, veo y leo el último croquis, hecho en estado de travesía:
 Un dibujo de un arbusto poblado de flores, que da cuenta de la primavera. Flores de colores amarillos naranjas, saturados y más arriba el verde de hojas nacientes. Leo lo allí anotado:
 
