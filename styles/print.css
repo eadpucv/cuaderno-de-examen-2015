@@ -1,66 +1,63 @@
 /* CSS for print */
 
+@import: 'website.css'
 
 @page{
-    size: 20cm 20cm;
-    margin: 5cm;
+  size: 20cm 20cm;
+  margin: 5cm;
 }
 
-@media print {
-  
-  *,
-  *:before,
-  *:after {
+*,
+*:before,
+*:after {
     background: transparent !important;
     color: #000 !important;
     box-shadow: none !important;
     text-shadow: none !important;
-    font-family: Helvetica;
-      
-  }
+}
 
-    
-  a,
-  a:visited {
-    text-decoration: underline;
-  }
 
-  abbr[title]:after {
-    content: " (" attr(title) ")";
-  }
+a,
+a:visited {
+  text-decoration: underline;
+}
 
-  pre,
-  blockquote {
-    border: 1px solid #999;
-    page-break-inside: avoid;
-  }
+abbr[title]:after {
+  content: " (" attr(title) ")";
+}
 
-  thead {
-    display: table-header-group;
-  }
+pre,
+blockquote {
+  border: 1px solid #999;
+  page-break-inside: avoid;
+}
 
-  tr,
-  img {
-    page-break-inside: avoid;
-  }
+thead {
+  display: table-header-group;
+}
 
-  img {
-    max-width: 100% !important;
-  }
+tr,
+img {
+  page-break-inside: avoid;
+}
 
-  p,
-  h2,
-  h3 {
-    orphans: 3;
-    widows: 3;
-  }
+img {
+  max-width: 100% !important;
+}
 
-  h1{
-    display: none;
-  }
+p,
+h2,
+h3 {
+  orphans: 3;
+  widows: 3;
+}
 
-  h2,
-  h3 {
-    page-break-after: avoid;
-  }
+h1{
+  display: none;
+}
+
+h1,
+h2,
+h3 {
+  page-break-after: avoid;
 }
