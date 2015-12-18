@@ -2,11 +2,16 @@
 
 @import: 'website.css'
 
-@page{
-  size: 20cm 20cm;
-  margin: 5cm;
+.page{
+    margin: 3em;
 }
 
+.page .book-chapter{display:none}
+
+blockquote{
+    border: none;
+}
+ 
 *,
 *:before,
 *:after {
@@ -52,9 +57,6 @@ h3 {
   widows: 3;
 }
 
-h1{
-  display: none;
-}
 
 h1,
 h2,
