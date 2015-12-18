@@ -31,6 +31,7 @@ Atravesamos pampas, sierras, lagos, cordilleras, 1.000 Km. en 24 hs. Con  5 mome
 Restauración, es el grupo del Taller encargado de alimentar al cuerpo del Taller esta vez, lo conformaron 72 personas. Siendo los días anteriores y posteriores de traslados y continuos al recorrido. 3 días.
 
 Así, en el bus tuvimos hora de desayuno, 
+
 * de snack, 
 * de almuerzo, 
 * de té, 
@@ -58,7 +59,7 @@ Cada día de campamento el grupo de restauración, sirvió 5 comidas, como las a
 Cada uno provisto de guantes, mascarilla, y velo para la cabeza, desechables.
 Contamos con una cocina a leñas de 3 platos, una cocina con 2 platos industriales a gas, un espacio de cocina con lavamanos (casa parroquial). Un comedor de 70 m2. Aproximados de los bomberos.
 
-###### Jorge Ferrada
+###Jorge Ferrada
 
 Fraccion de Ambito de Taller de Travesia  Ralun
 Esta vez la travesia ha abierto un doble plano de tiempo que converge en la Obra por un lado; y en el Recorrido. Tomando desde Amereida ..."hoy partimos a recorrer america"  este doble plano de convergencia se logra a traves de lo que podemos denominar, los traslados que permiten constituir la logistica necesaria entre ambas convergencias, como asi tambien las instancias previas de la travesia, los contactos el previo conocimiento del lugar, las autoridades y los apoyos materiales como de gestion institucional, autorizaciones y materiales. 
@@ -71,7 +72,7 @@ Desde el video y la fotografia, se ha abordado un registro sistematico en todo a
 Para el caso del registro planimetrico, se propuso constituir un registro permanente del sitio de la Obra y del Lugar. El cual cumplio un programa establecido de recopilar la informacion de modo sistematico. Para podr llegar a constituir una planimetria completa y precisa que permita a los encargados de la I.Municipalidad de Pto. Varas, continuar con la faena de establecer y consolidar el Lugar como espacio público permanente.
 Durante la travesia, se permenecio tanto en los trayectos, detenciones o recorridos, con lecturas algunos videos y actos que se realizaron junto al poeta Carlos Covarrubias.
 
-###### Cristóbal Cox, de las Herramientas
+### Cristóbal Cox, de las Herramientas
 
 De Ralùn y el Ancho de Amèrica.
 Se estructura el Taller para la Travesía. El trabajo entre varios se organiza en grupos cuyas tareas atienden distintos frentes para sostener nuestro recorrido y permanencia durante el tiempo de Travesía.
@@ -88,7 +89,7 @@ Con esto palpamos lo que significa ser un alumno de arquitectura, iniciarse en u
 
 Así una vez con el lenguaje, se nombra- y parte la construcción de la Obra-. Esto es en y para el Taller y la Travesía, trabajo que desde un cuerpo construido, quiere dejar a todos en común, esta vez desde un mismo asiento para cada uno. 
 
-###### Franco Marzal, de la Ruta
+### Franco Marzal, de la Ruta
 
 *¿Qué es la ruta? Es sólo seguir partiendo siempre, es mantener el rumbo abierto.[^3]*
 
