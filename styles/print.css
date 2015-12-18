@@ -1,6 +1,66 @@
 /* CSS for print */
 
 
-h1{
+@page{
+    size: 20cm 20cm;
+    margin: 5cm;
+}
+
+@media print {
+  
+  *,
+  *:before,
+  *:after {
+    background: transparent !important;
+    color: #000 !important;
+    box-shadow: none !important;
+    text-shadow: none !important;
+    font-family: Helvetica;
+      
+  }
+
+    
+  a,
+  a:visited {
+    text-decoration: underline;
+  }
+
+  abbr[title]:after {
+    content: " (" attr(title) ")";
+  }
+
+  pre,
+  blockquote {
+    border: 1px solid #999;
+    page-break-inside: avoid;
+  }
+
+  thead {
+    display: table-header-group;
+  }
+
+  tr,
+  img {
+    page-break-inside: avoid;
+  }
+
+  img {
+    max-width: 100% !important;
+  }
+
+  p,
+  h2,
+  h3 {
+    orphans: 3;
+    widows: 3;
+  }
+
+  h1{
     display: none;
+  }
+
+  h2,
+  h3 {
+    page-break-after: avoid;
+  }
 }
