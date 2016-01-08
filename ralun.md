@@ -4,7 +4,7 @@
 
 > Ralún, Región de los Lagos. Recorrido: el ancho de América; San Antonio Oeste —Atlántico— Argentina, Bahía Mansa —Pacífico— Chile.<br>1<sup>er</sup> año de Arquitectura, a cargo de los profesores Patricio Cáraves, Jorge Ferrada, Esmeralda Rodríguez, Cristóbal Cox y Franco Marzal.
 
-### Patricio Cáraves
+### Patricio Cáraves, Experiencia Arquitectónica: Continuidad, levedad y proyección in situ
 Dar cuenta desde el balance, es ciertamente partir desde término, desde haber dado cierre a un acto, a un emprender. Así, obedeciendo a esta realidad libremente elegida, para dar curso, tomo la carpeta-bitácora de travesía y, veo y leo el último croquis, hecho en estado de travesía:
 Un dibujo de un arbusto poblado de flores, que da cuenta de la primavera. Flores de colores amarillos naranjas, saturados y más arriba el verde de hojas nacientes. Leo lo allí anotado:
 
@@ -50,14 +50,56 @@ Campamento:
 * día 1 miércoles &rarr; 28 octubre
 * día 0 martes &rarr;  27 octubre
 
-Cada día de campamento el grupo de restauración, sirvió 5 comidas, como las antes mencionadas:  desayuno, snack, almuerzo, té y comida; cuidando los menú en cantidad, temperatura, grado de cocción, higiene y presentación. Todo a la hora convenida. Con jornadas comenzando a las  06.00hs. y terminando alrededor de las 24.00 hs. O incluso a las 00.30hs. lo constituían 9 personas:
+Cada día de campamento el grupo de restauración, sirvió 5 comidas, como las antes mencionadas: desayuno, snack, almuerzo, té y comida; cuidando los menú en cantidad, temperatura, grado de cocción, higiene y presentación. Todo a la hora convenida. Con jornadas comenzando a las  06.00 hrs. y terminando alrededor de las 24.00 hrs. O incluso a las 00.30hs. lo constituían 9 personas:
 
 * 2 alumnos del grupo de restauración
 * 6 alumnos del resto de los otros grupos y,
 * 1 señora, cocinera, manipuladora de alimentos de la Escuela de Ralún.
 
 Cada uno provisto de guantes, mascarilla, y velo para la cabeza, desechables.
-Contamos con una cocina a leñas de 3 platos, una cocina con 2 platos industriales a gas, un espacio de cocina con lavamanos (casa parroquial). Un comedor de 70 m2. Aproximados de los bomberos.
+
+Contamos con 
+
+* una cocina a leñas de 3 platos, 
+* una cocina con 2 platos industriales a gas, 
+* un espacio de cocina con lavamanos (casa parroquial),
+* un comedor de 70 m2. Aproximados de los bomberos.
+
+De  la Obra:
+
+En el soto bosque de castaños, dentro del predio de la Escuela de Ralún, trazamos y conformamos 24 calzadas de tramos rectos, que le dan lugar al paso de los que pasan , de los que pasean, de los pasos – saltos de los niños. Y parapettos, cuatro detenciones donde coger y apreciar ese espacio; allí, ver.
+Lo primero fue desbrozar y limpiar el bosque.  De este modo , el espacio abierto, el él nos dimos una jornada de observación y de acto. De ello surgieron las afirmaciones, que dieron paso a las huellas que fueron dibujado el terreno,lo que nos trajo suelo. De igual forma conformamos los parapettos: Aquellas detenciones, para albergar al cuerpo en pausa y, dar pie al paso del paseo. Siendo este el tamaño menor de la arquitectura. Aquí se encuentra la lección de este Taller, la que se hace cargo de conformar la continuidad, lo propio del espacio que construye la arquitectura. Calzadas y parapetto, que dan la forma de lo templado al bosque, construyendo un lugar para ir al encuentro. 
+
+En la preparación, los viajes de pre travesía nos permitieron contar con el sitio posible y los materiales y herramientas para la construcción. 
+Así, contamos con
+
+* 6 mil adocretos, que en el obrar los llamamos “anacletos” de 12 x 7 x 7 cms.
+* 10 tablas pino de 1 x 10''  cepilladas
+* 10 rollizos pino impregnados 3.20 m.
+* 5 cerchas de roble, tablas de 1 x 7'' de demolición.
+
+La obra, la construimos en 7 jornadas de trabajo, participando en ella 60 alumnos y 7 profesores.
+
+La travesía es la obra y el recorrido, atravesando el ancho de américa. Este término poético – arquitectónico de amereida, lo vivimos y padecimos y palpamos el ancho de américa, ese que dibujaran las leyes de Indias, para asignar tierras reales de mar a mar.
+
+*Las antiguas leyes de Indias trazaba una frontera que corría para_
+lela a lo largo de las costa de américa dicha frontera distinguía
+dos clases de tierra l a contigua a la costa – franja de tierra re_
+servada al rey y la tierra adentro tierra ofrecida ofreci_
+da por el rey - el sólo podía hacerlo - a los súbditos para que estos
+pasasen conocieran sus secretos se instalasen en ella de suer_
+te que los súbditos para instalarse debían atravesar una franja de
+tierra cuyos secretos les estaban vedados franja que manifestaba
+así la presencia del rey y la frontera establecía lo próximo y lo
+alejado en cuanto a una destinación común un ejemplo - quillota
+un pueblo de tierra adentro ubicado junto a la franja del rey
+en eln litoral pacífico
+
+¿el viaje?
+acaso hay que venir a celebrar en el lugar mismo ver marcar
+inscribir las cosas sólo permanecen cerca de nosotros cuando
+hemos dado el primer paso el ir a ellas[^3]*
+
 
 ###Jorge Ferrada
 
@@ -91,7 +133,7 @@ Así una vez con el lenguaje, se nombra- y parte la construcción de la Obra-. E
 
 ### Franco Marzal, de la Ruta
 
-*¿Qué es la ruta? Es sólo seguir partiendo siempre, es mantener el rumbo abierto.[^3]*
+*¿Qué es la ruta? Es sólo seguir partiendo siempre, es mantener el rumbo abierto.[^4]*
 
  
 Comienzo esta nota con una cita para quedar enmarcado en una palabra y así referirme a dos “partidas” fundamentales que nos han correspondido dentro de la tarea de encaminar el rumbo de la Travesía.
@@ -112,4 +154,5 @@ Será que este recorrer trata de acceder en ese desconocido que, aunque ya plani
 
 [^1]: Nota: gozo;  Estando en obra, al término de la jornada, Gaudí, al ver que los obreros, mirando la torre primera, terminada en su altura, y no se van a sus casas, les pregunta y, le responde uno sin bajar la vista del cielo: gozo.
 [^2]: [Amereida](http://wiki.ead.pucv.cl/index.php/Amereida)
-[^3]: Bitácora de la Primera Travesías de Amereida, Nota 46.
+[^3]: [Amereida](http://wiki.ead.pucv.cl/index.php/Amereida)
+[^4]: Bitácora de la Primera Travesías de Amereida, Nota 46.
