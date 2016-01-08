@@ -1,10 +1,10 @@
-## Travesía Ralún, o del Ancho de América
+### Travesía Ralún, o del Ancho de América
 
 ![Mapa de Ubicación](img/ralun/ralun-ubicacion.svg)
 
 > Ralún, Región de los Lagos. Recorrido: el ancho de América; San Antonio Oeste —Atlántico— Argentina, Bahía Mansa —Pacífico— Chile.<br>1<sup>er</sup> año de Arquitectura, a cargo de los profesores Patricio Cáraves, Jorge Ferrada, Esmeralda Rodríguez, Cristóbal Cox y Franco Marzal.
 
-### Experiencia Arquitectónica: Continuidad, levedad y proyección in situ
+## Experiencia Arquitectónica: Continuidad, levedad y proyección in situ
 Balance Grupo Restauración
 
 Dar cuenta desde el balance, es ciertamente partir desde término, desde haber dado cierre a un acto, a un emprender. Así, obedeciendo a esta realidad libremente elegida, para dar curso, tomo la carpeta-bitácora de travesía y, veo y leo el último croquis, hecho en estado de travesía:
@@ -91,7 +91,7 @@ La levedad, lo leve es abierta invitación a otros. Otro que le sea urgente fija
 
 Patricio Cáraves
 
-###PLANOS DE CONVERGENCIA RELATIVOS A LA TRAVESÍA
+##PLANOS DE CONVERGENCIA RELATIVOS A LA TRAVESÍA
 Balance del grupo Ámbito de Taller
 
 Esta vez la Travesía ha abierto un doble plano de tiempo que converge en la Obra por un lado; y en el Recorrido. Tomando desde amereida ...”hoy partimos a recorrer América”. Este doble plano de convergencia se logra a través de lo que podemos denominar los traslados, que permiten constituir la logística necesaria entre ambas convergencias, como asi también las instancias previas de la Travesía, los contactos, el previo conocimiento del lugar, las autoridades y los apoyos materiales como de gestión institucional, autorizaciones y materiales.
@@ -106,7 +106,34 @@ Durante la travesía, se permaneció tanto en los trayectos, detenciones o recor
 
 Jorge Ferrada Herrera
 
-### COTIDEANEIDAD DE FORMA PRESENTE
+##FIJAR EL ESTAR SITUADO Y SER ORIENTADOS EN COMÚN
+Balance del grupo Campamento
+
+Si la Travesía habla de salir a recorrer, el campamento ha de ser el punto de encuentro, lo más fijo, aquello que marca la referencia.
+Estamos y así podemos realizar la obra.
+Era nuestra labor aquel estar.
+Debíamos ser conscientes de lo que implica hallarse in situ y esto tiene que ver con hallarse orientado. Es una necesidad intrínseca -así te ubicas- en el espacio, con personas, contigo mismo, sólo así uno se ‘’encuentra’’. Se halla in situ, se sitúa. Así es que nos compete en la arquitectura.
+Saber dónde estoy parado, ‘’adaptarse o morir’’ dice Charles Darwin. En campamento actuamos para fijar este estar situado. Así, orientados en común, en obra.
+
+Ser orientados es saber ‘’cual es el alba perpetua de tu origen’’. Nuestro origen: poético, el alba perpetua: atravesar el desconocido juntos.
+
+Lo primero fue conocer las condiciones con las que contábamos: la información que Jorge Ferrada nos provee desde la avanzada y otras consideraciones basadas en su ubicación geográfica. La lluvia fue nuestra principal preocupación ¿cómo mantenernos con un descanso real bajo cualquier circunstancia? Vamos a destemplar el ensueño, no el cuerpo.
+
+Jorge nos informa sobre la situación: tenemos a nuestra disposición la sede vecinal, la estación de bomberos, la casa del párroco, los baños y duchas de la escuela “Cristo Rey” fuera de horario de clases. En Ralún hay una cancha de fútbol, una posta, una capilla y un bosque donde se realizará la obra. Todo esto conforma un centro.
+Teníamos una idea del lugar y en caso de emergencia la posibilidad de refugio, pero debíamos obrar por un campamento que fuese más que un refugio: convivencia, encuentro cotidiano, obrar y descansar. Debíamos procurar una forma.
+Pensamos una gran carpa que nos alojase a todos bajo un mismo cielo, gesto de compartir el estar en común que se nos aproximaba. Resolvimos finalmente protegernos de la lluvia con cobertores plásticos para cada carpa, a partir de un sistema con estacas y vientos, en los que cada cual según su carpa y el método sugerido construyó un acceso.
+
+Estar en común para el Taller del Primer Año, es distinto que para un Taller de Quinto. La primera acción fue elegir compañeros de carpa. Luego, estando allá, la utilización de los cobertores fue una coordenada que nos unificó ante quienes nos recibían (éramos un cuerpo uniforme de campamento) y organizado ante un pasillo en forma de “C”. Cada quiebre fue marcando un barrio o grupo. En este tiempo de permanencia, desde el encuentro, desde el verse día a día originó la vecindad, que nos acercó a la posibilidad de reconocernos.
+
+Más avanzada la Travesía, el campamento debió trasladarse desde la cancha a los terrenos de la escuela. Estas tres vecindades se enfilaron armando nuevas relaciones, ahora el encuentro era también en el “a través” del entre carpas. Al estar estas en seguidilla una al lado de la otra, nos trajo un cambio de aire más condensado que coincidió con el tiempo más intenso de trabajo en la obra.
+
+(del colofón de la bitácora de Travesía)
+‘’La travesía es un tiempo (con otro tiempo) donde se vive desde el obrar, el estar en común, actuar en común, ser un cuerpo. Un cuerpo donde nuestro corazón se une en la obra, y en el obrar. Aquí crecemos. El tiempo lo rige el sol, la limpieza y el hambre. El avance por sobre todo es lo único que importa realmente.
+Ir recorriendo con un rumbo donde la ruta es conocida, pero no sus horizontes, cielo y colores. Juntos nos empapamos de atravesar, de encontrar la extensión de América, de avanzar, juntos.’’
+
+Esmeralda Rodríguez Melo
+
+## COTIDEANEIDAD DE FORMA PRESENTE
 Balance del Grupo Herramientas
 
 De Ralùn y el Ancho de América.
@@ -126,7 +153,7 @@ Así una vez con el lenguaje, se nombra- y parte la construcción de la Obra-. E
 
 Cristóbal Cox Bordalí
 
-### SOBRE LA DIMENSIÓN DEL VIAJE: RECORRIDO Y TRASLADOS
+## SOBRE LA DIMENSIÓN DEL VIAJE: RECORRIDO Y TRASLADOS
 Balance del Grupo Ruta - atravesar el ancho de América desde la costa del Océano Atlántico hasta la costa del Océano Pacífico a la altura del paralelo 41°
 
 *¿Qué es la ruta? Es sólo seguir partiendo siempre, es mantener el rumbo abierto.[^3]*
