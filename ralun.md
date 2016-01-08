@@ -1,10 +1,10 @@
-### Travesía Ralún, o del Ancho de América
+## Travesía Ralún, o del Ancho de América
 
 ![Mapa de Ubicación](img/ralun/ralun-ubicacion.svg)
 
 > Ralún, Región de los Lagos. Recorrido: el ancho de América; San Antonio Oeste —Atlántico— Argentina, Bahía Mansa —Pacífico— Chile.<br>1<sup>er</sup> año de Arquitectura, a cargo de los profesores Patricio Cáraves, Jorge Ferrada, Esmeralda Rodríguez, Cristóbal Cox y Franco Marzal.
 
-## Experiencia Arquitectónica: Continuidad, levedad y proyección in situ
+#### Experiencia Arquitectónica: Continuidad, levedad y proyección in situ
 Balance Grupo Restauración
 
 Dar cuenta desde el balance, es ciertamente partir desde término, desde haber dado cierre a un acto, a un emprender. Así, obedeciendo a esta realidad libremente elegida, para dar curso, tomo la carpeta-bitácora de travesía y, veo y leo el último croquis, hecho en estado de travesía:
