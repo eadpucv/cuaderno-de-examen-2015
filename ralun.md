@@ -88,7 +88,8 @@ Lo propio de una obra de travesía, que alcanza el tamaño arquitectónico y est
 La levedad, lo leve es abierta invitación a otros. Otro que le sea urgente fijar lo trazado.
 * El proyectar in situ. Faena de decidir , definir ahora y aquí, en el lugar mismo de la obra. Hecho a escala de obra, es decir 1:1. Lo que reclama decision y contar con “cuerpo en obra”.
 
-Patricio Cáraves
+Patricio Cáraves Silva
+
 
 
 ####PLANOS DE CONVERGENCIA RELATIVOS A LA TRAVESÍA
@@ -104,6 +105,7 @@ Desde el video y la fotografía, se ha abordado un registro sistemático en torn
 Durante la travesía, se permaneció tanto en los trayectos, detenciones o recorridos, con lecturas, algunos videos y actos que se realizaron junto al poeta Carlos Covarrubias.
 
 Jorge Ferrada Herrera
+
 
 
 ####FIJAR EL ESTAR SITUADO Y SER ORIENTADOS EN COMÚN
@@ -133,6 +135,7 @@ Ir recorriendo con un rumbo donde la ruta es conocida, pero no sus horizontes, c
 Esmeralda Rodríguez Melo
 
 
+
 #### COTIDEANEIDAD DE FORMA PRESENTE
 
 De Ralùn y el Ancho de América.
@@ -151,6 +154,7 @@ Con esto palpamos lo que significa ser un alumno de arquitectura, iniciarse en u
 Así una vez con el lenguaje, se nombra- y parte la construcción de la Obra-. Esto es en y para el Taller y la Travesía, trabajo que desde un cuerpo construido, quiere dejar a todos en común, esta vez desde un mismo asiento para cada uno. 
 
 Cristóbal Cox Bordalí
+
 
 
 #### SOBRE LA DIMENSIÓN DEL VIAJE: RECORRIDO Y TRASLADOS
@@ -173,6 +177,8 @@ De la playa del balneario Las Grutas en Argentina a la puesta del sol en Bahía 
 Vuelvo a la cita inicial para preguntarme: ¿Y cómo mantener el rumbo siempre abierto?
  
 Será que este recorrer trata de acceder en ese desconocido que, aunque ya planificado, se va dando en el encontrarse con el territorio que se nos va revelando en un acto sostenido mediante el dibujo y la palabra; acto llevado con un pulso continuo del ir sobre la marcha, a veces anticipando, a veces sobreponiéndose a lo que se nos va apareciendo, llamados a estar abiertos a siempre maravillarse con aquello en lo que estamos (presente o regalo), y en lo que nos espera más adelante: será esto primero la ruta misma y el paisaje. Algo de esa experiencia es lo que se puede ver recogido en nuestras bitácoras y láminas. 
+
+Franco Marzal Díaz
 
 [^1]: Nota: gozo;  Estando en obra, al término de la jornada, Gaudí, al ver que los obreros, mirando la torre primera, terminada en su altura, y no se van a sus casas, les pregunta y, le responde uno sin bajar la vista del cielo: gozo.
 [^2]: [Amereida](http://wiki.ead.pucv.cl/index.php/Amereida)
