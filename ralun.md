@@ -4,7 +4,9 @@
 
 > Ralún, Región de los Lagos. Recorrido: el ancho de América; San Antonio Oeste —Atlántico— Argentina, Bahía Mansa —Pacífico— Chile.<br>1<sup>er</sup> año de Arquitectura, a cargo de los profesores Patricio Cáraves, Jorge Ferrada, Esmeralda Rodríguez, Cristóbal Cox y Franco Marzal.
 
-### Patricio Cáraves, Experiencia Arquitectónica: Continuidad, levedad y proyección in situ
+### Experiencia Arquitectónica: Continuidad, levedad y proyección in situ
+Balance Grupo Restauración
+
 Dar cuenta desde el balance, es ciertamente partir desde término, desde haber dado cierre a un acto, a un emprender. Así, obedeciendo a esta realidad libremente elegida, para dar curso, tomo la carpeta-bitácora de travesía y, veo y leo el último croquis, hecho en estado de travesía:
 Un dibujo de un arbusto poblado de flores, que da cuenta de la primavera. Flores de colores amarillos naranjas, saturados y más arriba el verde de hojas nacientes. Leo lo allí anotado:
 
@@ -38,7 +40,6 @@ Así, en el bus tuvimos hora de desayuno,
 * de comida que hoy llaman cena.
 
 Siendo un total de
-
 Campamento:
 
 * día 7 martes &rarr; 3 noviembre
@@ -65,9 +66,7 @@ Contamos con
 * un espacio de cocina con lavamanos (casa parroquial),
 * un comedor de 70 m2. Aproximados de los bomberos.
 
-
 De  la Obra:
-
 En el soto bosque de castaños, dentro del predio de la Escuela de Ralún, trazamos y conformamos 24 calzadas de tramos rectos, que le dan lugar al paso de los que pasan , de los que pasean, de los pasos – saltos de los niños. Y parapettos, cuatro detenciones donde coger y apreciar ese espacio; allí, ver.
 Lo primero fue desbrozar y limpiar el bosque.  De este modo , el espacio abierto, el él nos dimos una jornada de observación y de acto. De ello surgieron las afirmaciones, que dieron paso a las huellas que fueron dibujado el terreno,lo que nos trajo suelo. De igual forma conformamos los parapettos: Aquellas detenciones, para albergar al cuerpo en pausa y, dar pie al paso del paseo. Siendo este el tamaño menor de la arquitectura. Aquí se encuentra la lección de este Taller, la que se hace cargo de conformar la continuidad, lo propio del espacio que construye la arquitectura. Calzadas y parapetto, que dan la forma de lo templado al bosque, construyendo un lugar para ir al encuentro. 
 
@@ -83,28 +82,18 @@ La obra, la construimos en 7 jornadas de trabajo, participando en ella 60 alumno
 
 La travesía es la obra y el recorrido, atravesando el ancho de américa. Este término poético – arquitectónico de amereida, lo vivimos y padecimos y palpamos el ancho de américa, ese que dibujaran las leyes de Indias, para asignar tierras reales de mar a mar.
 
-*Las antiguas leyes de Indias trazaba una frontera que corría para<br>
-lela a lo largo de las costa de américa dicha frontera distinguía<br>
-dos clases de tierra l a contigua a la costa – franja de tierra re<br>
-servada al rey y la tierra adentro tierra ofrecida ofreci<br>
-da por el rey - el sólo podía hacerlo - a los súbditos para que estos<br>
-pasasen conocieran sus secretos se instalasen en ella de suer<br>
-te que los súbditos para instalarse debían atravesar una franja de<br>
-tierra cuyos secretos les estaban vedados franja que manifestaba<br>
-así la presencia del rey y la frontera establecía lo próximo y lo<br>
-alejado en cuanto a una destinación común un ejemplo - quillota<br>
-un pueblo de tierra adentro ubicado junto a la franja del rey<br>
-en eln litoral pacífico<br>
+La lección arquitectónica, de la continuidad, con la asistencia a la travesía, se enriqueció con las siguientes realidades:
 
-¿el viaje?<br>
-acaso hay que venir a celebrar en el lugar mismo ver marcar<br>
-inscribir las cosas sólo permanecen cerca de nosotros cuando<br>
-hemos dado el primer paso el ir a ellas[^3]*
+* La levedad Faena que sabe leer la realidad material , ser obediente creativamente a dicha realidad; con el objetivo de dar cumplimiento a la obra: Asi, dejarla entera que no completa.
+Lo propio de una obra de travesía, que alcanza el tamaño arquitectónico y estatuto de obra, para ser regalada.
+La levedad, lo leve es abierta invitación a otros. Otro que le sea urgente fijar lo trazado.
+* El proyectar in situ. Faena de decidir , definir ahora y aquí, en el lugar mismo de la obra. Hecho a escala de obra, es decir 1:1. Lo que reclama decision y contar con “cuerpo en obra”.
 
+Patricio Caraves
 
-###Jorge Ferrada
+###PLANOS DE CONVERGENCIA RELATIVOS A LA TRAVESIA
+Balance del grupo Ambito de Taller
 
-Fraccion de Ambito de Taller de Travesia  Ralun
 Esta vez la travesia ha abierto un doble plano de tiempo que converge en la Obra por un lado; y en el Recorrido. Tomando desde Amereida ..."hoy partimos a recorrer america"  este doble plano de convergencia se logra a traves de lo que podemos denominar, los traslados que permiten constituir la logistica necesaria entre ambas convergencias, como asi tambien las instancias previas de la travesia, los contactos el previo conocimiento del lugar, las autoridades y los apoyos materiales como de gestion institucional, autorizaciones y materiales. 
 
 El Ambito del Taller de travesia sostiene entonces dimensiones externas y dimensiones internas a esos planos de convergencia, que llevan a implementar en la travesia un tempo... e incluso en conjugacion con los otras fracciones del taller, un ritmo. Ese Ritmo va desde lo que podemos denominar de lo a la mano...que llega a establecer un orden de prontitud proxima al cuerpo, que lleva consigo la construccion de una identidad, que permite armar de forma concreta un primer orden de corporeidad grupal. Esto se llevo a cabo con la construccion de un bolso (banano de travesia) cuyo sentido primario es poder contener lo proximo al cuerpo, lo necesario para el trabajo, la observacion y la construccion, en una unidad. El bolso o banano, constituye una unidad indeformable con respecto al tiempo. Aquello que a la mano contiene un total. 
