@@ -65,6 +65,7 @@ Contamos con
 * un espacio de cocina con lavamanos (casa parroquial),
 * un comedor de 70 m2. Aproximados de los bomberos.
 
+
 De  la Obra:
 
 En el soto bosque de castaños, dentro del predio de la Escuela de Ralún, trazamos y conformamos 24 calzadas de tramos rectos, que le dan lugar al paso de los que pasan , de los que pasean, de los pasos – saltos de los niños. Y parapettos, cuatro detenciones donde coger y apreciar ese espacio; allí, ver.
@@ -82,22 +83,22 @@ La obra, la construimos en 7 jornadas de trabajo, participando en ella 60 alumno
 
 La travesía es la obra y el recorrido, atravesando el ancho de américa. Este término poético – arquitectónico de amereida, lo vivimos y padecimos y palpamos el ancho de américa, ese que dibujaran las leyes de Indias, para asignar tierras reales de mar a mar.
 
-*Las antiguas leyes de Indias trazaba una frontera que corría para_
-lela a lo largo de las costa de américa dicha frontera distinguía
-dos clases de tierra l a contigua a la costa – franja de tierra re_
-servada al rey y la tierra adentro tierra ofrecida ofreci_
-da por el rey - el sólo podía hacerlo - a los súbditos para que estos
-pasasen conocieran sus secretos se instalasen en ella de suer_
-te que los súbditos para instalarse debían atravesar una franja de
-tierra cuyos secretos les estaban vedados franja que manifestaba
-así la presencia del rey y la frontera establecía lo próximo y lo
-alejado en cuanto a una destinación común un ejemplo - quillota
-un pueblo de tierra adentro ubicado junto a la franja del rey
-en eln litoral pacífico
+*Las antiguas leyes de Indias trazaba una frontera que corría para_<br>
+lela a lo largo de las costa de américa dicha frontera distinguía<br>
+dos clases de tierra l a contigua a la costa – franja de tierra re_<br>
+servada al rey y la tierra adentro tierra ofrecida ofreci_<br>
+da por el rey - el sólo podía hacerlo - a los súbditos para que estos<br>
+pasasen conocieran sus secretos se instalasen en ella de suer_<br>
+te que los súbditos para instalarse debían atravesar una franja de<br>
+tierra cuyos secretos les estaban vedados franja que manifestaba<br>
+así la presencia del rey y la frontera establecía lo próximo y lo<br>
+alejado en cuanto a una destinación común un ejemplo - quillota<br>
+un pueblo de tierra adentro ubicado junto a la franja del rey<br>
+en eln litoral pacífico<br>
 
-¿el viaje?
-acaso hay que venir a celebrar en el lugar mismo ver marcar
-inscribir las cosas sólo permanecen cerca de nosotros cuando
+¿el viaje?<br>
+acaso hay que venir a celebrar en el lugar mismo ver marcar<br>
+inscribir las cosas sólo permanecen cerca de nosotros cuando<br>
 hemos dado el primer paso el ir a ellas[^3]*
 
 
