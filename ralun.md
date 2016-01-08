@@ -89,24 +89,27 @@ Lo propio de una obra de travesía, que alcanza el tamaño arquitectónico y est
 La levedad, lo leve es abierta invitación a otros. Otro que le sea urgente fijar lo trazado.
 * El proyectar in situ. Faena de decidir , definir ahora y aquí, en el lugar mismo de la obra. Hecho a escala de obra, es decir 1:1. Lo que reclama decision y contar con “cuerpo en obra”.
 
-Patricio Caraves
+Patricio Cáraves
 
-###PLANOS DE CONVERGENCIA RELATIVOS A LA TRAVESIA
-Balance del grupo Ambito de Taller
+###PLANOS DE CONVERGENCIA RELATIVOS A LA TRAVESÍA
+Balance del grupo Ámbito de Taller
 
-Esta vez la travesia ha abierto un doble plano de tiempo que converge en la Obra por un lado; y en el Recorrido. Tomando desde Amereida ..."hoy partimos a recorrer america"  este doble plano de convergencia se logra a traves de lo que podemos denominar, los traslados que permiten constituir la logistica necesaria entre ambas convergencias, como asi tambien las instancias previas de la travesia, los contactos el previo conocimiento del lugar, las autoridades y los apoyos materiales como de gestion institucional, autorizaciones y materiales. 
+Esta vez la Travesía ha abierto un doble plano de tiempo que converge en la Obra por un lado; y en el Recorrido. Tomando desde amereida ...”hoy partimos a recorrer América”. Este doble plano de convergencia se logra a través de lo que podemos denominar los traslados, que permiten constituir la logística necesaria entre ambas convergencias, como asi también las instancias previas de la Travesía, los contactos, el previo conocimiento del lugar, las autoridades y los apoyos materiales como de gestión institucional, autorizaciones y materiales.
 
-El Ambito del Taller de travesia sostiene entonces dimensiones externas y dimensiones internas a esos planos de convergencia, que llevan a implementar en la travesia un tempo... e incluso en conjugacion con los otras fracciones del taller, un ritmo. Ese Ritmo va desde lo que podemos denominar de lo a la mano...que llega a establecer un orden de prontitud proxima al cuerpo, que lleva consigo la construccion de una identidad, que permite armar de forma concreta un primer orden de corporeidad grupal. Esto se llevo a cabo con la construccion de un bolso (banano de travesia) cuyo sentido primario es poder contener lo proximo al cuerpo, lo necesario para el trabajo, la observacion y la construccion, en una unidad. El bolso o banano, constituye una unidad indeformable con respecto al tiempo. Aquello que a la mano contiene un total. 
-Por otro lado, la fraccion de Ambito se ha ocupado del Registro, una parte de este registro tiene que ver con el registro fotografico y de video, y otra con el registro planimetrico de la Obra, abarcando con ambos modos, lo que hemos denominado los dos planos de convergencia de la travesia.
+El Ámbito del Taller de Travesía sostiene entonces dimensiones externas y dimensiones internas a esos planos de convergencia, que llevan a implementar en la travesía un tiempo... e incluso en conjugación con los otras fracciones del Taller, un ritmo. Ese Ritmo va desde lo que podemos denominar de lo a la mano... que llega a establecer un orden de prontitud próxima al cuerpo, que lleva consigo la construcción de una identidad, que permite armar de forma concreta un primer orden de corporeidad grupal. Esto se llevó a cabo con la construcción de un bolso (banano de Travesía) cuyo sentido primario es poder contener lo próximo al cuerpo, lo necesario para el trabajo, la observación y la construcción, en una unidad. El bolso o banano, constituye una unidad indeformable con respecto al tiempo. Aquello que a la mano contiene un total.
 
-Desde el video y la fotografia, se ha abordado un registro sistematico en todo a la designacion de temas especificos, encargos estables para la captura de los distintos momentos, pero señidos a un guion fijo preseñalado y a un protocolo preestablecido.
+Por otro lado, la fracción de Ámbito se ha ocupado del Registro. Una parte de este registro tiene que ver con el registro fotográfico y de video, y otra con el registro planimétrico de la Obra, abarcando con ambos modos, lo que hemos denominado los dos planos de convergencia de la Travesía.
 
-Para el caso del registro planimetrico, se propuso constituir un registro permanente del sitio de la Obra y del Lugar. El cual cumplio un programa establecido de recopilar la informacion de modo sistematico. Para podr llegar a constituir una planimetria completa y precisa que permita a los encargados de la I.Municipalidad de Pto. Varas, continuar con la faena de establecer y consolidar el Lugar como espacio público permanente.
-Durante la travesia, se permenecio tanto en los trayectos, detenciones o recorridos, con lecturas algunos videos y actos que se realizaron junto al poeta Carlos Covarrubias.
+Desde el video y la fotografía, se ha abordado un registro sistemático en torno a la designación de temas específicos: encargos estables para la captura de los distintos momentos, pero ceñidos a un guión fijo pre-señalado y a un protocolo preestablecido. Para el caso del registro planimétrico, se propuso constituir un registro permanente del sitio de la Obra y del Lugar, el cual cumplió un programa establecido de recopilar la información de modo sistemático para poder llegar a constituir una planimetría completa y precisa que permita a los encargados de la Ilustre Municipalidad de Puerto Varas continuar con la faena de consolidar el Lugar como espacio público permanente.
 
-### Cristóbal Cox, de las Herramientas
+Durante la travesía, se permaneció tanto en los trayectos, detenciones o recorridos, con lecturas, algunos videos y actos que se realizaron junto al poeta Carlos Covarrubias.
 
-De Ralùn y el Ancho de Amèrica.
+Jorge Ferrada Herrera
+
+### COTIDEANEIDAD DE FORMA PRESENTE
+Balance del Grupo Herramientas
+
+De Ralùn y el Ancho de América.
 Se estructura el Taller para la Travesía. El trabajo entre varios se organiza en grupos cuyas tareas atienden distintos frentes para sostener nuestro recorrido y permanencia durante el tiempo de Travesía.
 
 Los dos momentos inherentes a ella se resuelven; uno en la preparación, al cual llamamos pre Travesía, y otro en el cumplimiento de roles que significa estar a cargo de algo, asumir en cuerpo presente construyendo este tiempo distinto.
@@ -121,9 +124,12 @@ Con esto palpamos lo que significa ser un alumno de arquitectura, iniciarse en u
 
 Así una vez con el lenguaje, se nombra- y parte la construcción de la Obra-. Esto es en y para el Taller y la Travesía, trabajo que desde un cuerpo construido, quiere dejar a todos en común, esta vez desde un mismo asiento para cada uno. 
 
-### Franco Marzal, de la Ruta
+Cristóbal Cox Bordalí
 
-*¿Qué es la ruta? Es sólo seguir partiendo siempre, es mantener el rumbo abierto.[^4]*
+### SOBRE LA DIMENSIÓN DEL VIAJE: RECORRIDO Y TRASLADOS
+Balance del Grupo Ruta - atravesar el ancho de América desde la costa del Océano Atlántico hasta la costa del Océano Pacífico a la altura del paralelo 41°
+
+*¿Qué es la ruta? Es sólo seguir partiendo siempre, es mantener el rumbo abierto.[^3]*
 
  
 Comienzo esta nota con una cita para quedar enmarcado en una palabra y así referirme a dos “partidas” fundamentales que nos han correspondido dentro de la tarea de encaminar el rumbo de la Travesía.
@@ -144,5 +150,4 @@ Será que este recorrer trata de acceder en ese desconocido que, aunque ya plani
 
 [^1]: Nota: gozo;  Estando en obra, al término de la jornada, Gaudí, al ver que los obreros, mirando la torre primera, terminada en su altura, y no se van a sus casas, les pregunta y, le responde uno sin bajar la vista del cielo: gozo.
 [^2]: [Amereida](http://wiki.ead.pucv.cl/index.php/Amereida)
-[^3]: [Amereida](http://wiki.ead.pucv.cl/index.php/Amereida)
-[^4]: Bitácora de la Primera Travesías de Amereida, Nota 46.
+[^3]: Bitácora de la Primera Travesías de Amereida, Nota 46.
