@@ -153,7 +153,7 @@ Así una vez con el lenguaje, se nombra- y parte la construcción de la Obra-. E
 
 Cristóbal Cox Bordalí
 
-### SOBRE LA DIMENSIÓN DEL VIAJE: RECORRIDO Y TRASLADOS
+#### SOBRE LA DIMENSIÓN DEL VIAJE: RECORRIDO Y TRASLADOS
 Balance del Grupo Ruta - atravesar el ancho de América desde la costa del Océano Atlántico hasta la costa del Océano Pacífico a la altura del paralelo 41°
 
 *¿Qué es la ruta? Es sólo seguir partiendo siempre, es mantener el rumbo abierto.[^3]*
