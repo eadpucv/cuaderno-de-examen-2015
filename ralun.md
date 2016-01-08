@@ -83,12 +83,12 @@ La obra, la construimos en 7 jornadas de trabajo, participando en ella 60 alumno
 
 La travesía es la obra y el recorrido, atravesando el ancho de américa. Este término poético – arquitectónico de amereida, lo vivimos y padecimos y palpamos el ancho de américa, ese que dibujaran las leyes de Indias, para asignar tierras reales de mar a mar.
 
-*Las antiguas leyes de Indias trazaba una frontera que corría para_<br>
+*Las antiguas leyes de Indias trazaba una frontera que corría para<br>
 lela a lo largo de las costa de américa dicha frontera distinguía<br>
-dos clases de tierra l a contigua a la costa – franja de tierra re_<br>
-servada al rey y la tierra adentro tierra ofrecida ofreci_<br>
+dos clases de tierra l a contigua a la costa – franja de tierra re<br>
+servada al rey y la tierra adentro tierra ofrecida ofreci<br>
 da por el rey - el sólo podía hacerlo - a los súbditos para que estos<br>
-pasasen conocieran sus secretos se instalasen en ella de suer_<br>
+pasasen conocieran sus secretos se instalasen en ella de suer<br>
 te que los súbditos para instalarse debían atravesar una franja de<br>
 tierra cuyos secretos les estaban vedados franja que manifestaba<br>
 así la presencia del rey y la frontera establecía lo próximo y lo<br>
