@@ -5,7 +5,6 @@
 > Ralún, Región de los Lagos. Recorrido: el ancho de América; San Antonio Oeste —Atlántico— Argentina, Bahía Mansa —Pacífico— Chile.<br>1<sup>er</sup> año de Arquitectura, a cargo de los profesores Patricio Cáraves, Jorge Ferrada, Esmeralda Rodríguez, Cristóbal Cox y Franco Marzal.
 
 #### Experiencia Arquitectónica: Continuidad, levedad y proyección in situ
-Balance Grupo Restauración
 
 Dar cuenta desde el balance, es ciertamente partir desde término, desde haber dado cierre a un acto, a un emprender. Así, obedeciendo a esta realidad libremente elegida, para dar curso, tomo la carpeta-bitácora de travesía y, veo y leo el último croquis, hecho en estado de travesía:
 Un dibujo de un arbusto poblado de flores, que da cuenta de la primavera. Flores de colores amarillos naranjas, saturados y más arriba el verde de hojas nacientes. Leo lo allí anotado:
@@ -91,8 +90,8 @@ La levedad, lo leve es abierta invitación a otros. Otro que le sea urgente fija
 
 Patricio Cáraves
 
+
 ####PLANOS DE CONVERGENCIA RELATIVOS A LA TRAVESÍA
-Balance del grupo Ámbito de Taller
 
 Esta vez la Travesía ha abierto un doble plano de tiempo que converge en la Obra por un lado; y en el Recorrido. Tomando desde amereida ...”hoy partimos a recorrer América”. Este doble plano de convergencia se logra a través de lo que podemos denominar los traslados, que permiten constituir la logística necesaria entre ambas convergencias, como asi también las instancias previas de la Travesía, los contactos, el previo conocimiento del lugar, las autoridades y los apoyos materiales como de gestión institucional, autorizaciones y materiales.
 
@@ -106,8 +105,8 @@ Durante la travesía, se permaneció tanto en los trayectos, detenciones o recor
 
 Jorge Ferrada Herrera
 
+
 ####FIJAR EL ESTAR SITUADO Y SER ORIENTADOS EN COMÚN
-Balance del grupo Campamento
 
 Si la Travesía habla de salir a recorrer, el campamento ha de ser el punto de encuentro, lo más fijo, aquello que marca la referencia.
 Estamos y así podemos realizar la obra.
@@ -133,8 +132,8 @@ Ir recorriendo con un rumbo donde la ruta es conocida, pero no sus horizontes, c
 
 Esmeralda Rodríguez Melo
 
+
 #### COTIDEANEIDAD DE FORMA PRESENTE
-Balance del Grupo Herramientas
 
 De Ralùn y el Ancho de América.
 Se estructura el Taller para la Travesía. El trabajo entre varios se organiza en grupos cuyas tareas atienden distintos frentes para sostener nuestro recorrido y permanencia durante el tiempo de Travesía.
@@ -153,8 +152,8 @@ Así una vez con el lenguaje, se nombra- y parte la construcción de la Obra-. E
 
 Cristóbal Cox Bordalí
 
+
 #### SOBRE LA DIMENSIÓN DEL VIAJE: RECORRIDO Y TRASLADOS
-Balance del Grupo Ruta - atravesar el ancho de América desde la costa del Océano Atlántico hasta la costa del Océano Pacífico a la altura del paralelo 41°
 
 *¿Qué es la ruta? Es sólo seguir partiendo siempre, es mantener el rumbo abierto.[^3]*
 
